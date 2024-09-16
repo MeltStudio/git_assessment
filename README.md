@@ -1,5 +1,7 @@
 # git_assessment
 
+This line will probably cause issues for you. Keep that in mind.
+
 ## Shamir (2/8):
 
 ```
